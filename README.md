@@ -1,2 +1,2 @@
 # nixos-config
-Personam nixox configuration
+Personal nixox configuration
